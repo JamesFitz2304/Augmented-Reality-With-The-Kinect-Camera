@@ -1,0 +1,35 @@
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\Augmented Reality.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage_Content.g.cs
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\Augmented Reality.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\Augmented Reality.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\KinectImage_Content.g.cs
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\Augmented Reality\KinectImage\obj\Debug\Augmented Reality.csproj.GenerateResource.Cache
+C:\Users\James.Fitzgerald\Desktop\Augmented Reality\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\James.Fitzgerald\Desktop\Augmented Reality\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\James.Fitzgerald\Desktop\Augmented Reality\KinectImage\obj\Debug\KinectImage.pdb

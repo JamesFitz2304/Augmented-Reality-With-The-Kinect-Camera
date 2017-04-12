@@ -1,0 +1,3 @@
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.pdb

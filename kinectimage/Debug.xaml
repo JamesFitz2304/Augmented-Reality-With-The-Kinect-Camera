@@ -1,0 +1,128 @@
+﻿<Window x:Class="KinectImage.Debug"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Debug" Width="539.104" Height="712.067" ResizeMode="NoResize" ShowInTaskbar="False" BorderBrush="Black" Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}" BorderThickness="2" Closing="Window_Closing">
+    <Grid Margin="0,-1,0,-3">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="4,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" Text="HeadX" FontSize="16" Height="21" Width="47"/>
+        <TextBlock HorizontalAlignment="Left" Margin="5,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="21" Width="46"><Run Text="Head"/><Run Text="Y"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="2,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" Text="Skeleton Coordinates" FontSize="20" FontWeight="Bold" Height="27" Width="200"/>
+        <TextBox x:Name="txtSkeleX" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="56,83,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="134,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="21" Width="47"><Run Text="Hand"/><Run Text="X"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="134,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="21" Width="47"><Run Text="H"/><Run Text="and"/><Run Text="Y"/></TextBlock>
+        <TextBox x:Name="handX" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="188,84,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBox x:Name="handY" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="188,120,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBox x:Name="txtSkeleY" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="56,120,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" Text="Canvas Coordinates" FontSize="20" FontWeight="Bold" Height="27" Width="184"/>
+        <TextBlock HorizontalAlignment="Left" Margin="3,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" Text="HeadX" FontSize="16" Height="22" Width="47"/>
+        <TextBlock HorizontalAlignment="Left" Margin="5,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="HeadY" Height="22" Width="52"/>
+        <TextBox x:Name="txtCanvasX" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Margin="54,193,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBox x:Name="txtCanvasY" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="51" Margin="54,230,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="118,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="Diff X" Height="22" Width="39"/>
+        <TextBox x:Name="txtHHX" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="163,193,0,0" Foreground="#FFEC1D1D" FontSize="16" RenderTransformOrigin="0.329,2.625"/>
+        <TextBlock HorizontalAlignment="Left" Margin="121,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="Diff Y" Height="22" Width="50"/>
+        <TextBox x:Name="txtHHY" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="164,228,0,0" Foreground="#FFEC1D1D" FontSize="16" RenderTransformOrigin="0.329,2.625"/>
+        <TextBlock HorizontalAlignment="Left" Margin="8,268,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" Text="HatX" FontSize="16" Height="22" Width="47"/>
+        <TextBlock HorizontalAlignment="Left" Margin="126,265,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" Text="HatY" FontSize="16" Height="22" Width="34"/>
+        <TextBox x:Name="txtHatX" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="51" Margin="54,266,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBox x:Name="txtHatY" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="164,262,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="132,383,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="Countdown" Height="22" Width="90"/>
+        <TextBox x:Name="txtCountdown" HorizontalAlignment="Left" Height="21" TextWrapping="Wrap" VerticalAlignment="Top" Width="29" Margin="223,383,0,0" Foreground="#FFEC1D1D" FontSize="14" RenderTransformOrigin="0.329,2.625"/>
+        <TextBlock HorizontalAlignment="Left" Margin="110,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Width="56" TextAlignment="Center" Height="54"><Run Text="Hat Height"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="102,327,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="Hat Width" TextAlignment="Center" Width="69" Height="47"/>
+        <TextBox x:Name="txtHatHeight" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="164,298,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBox x:Name="txtHatWidth" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="164,334,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="172,409,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="43" Width="49"><Run Text="Pause"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="txtPause" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="29" Margin="223,409,0,0" Foreground="#FFEC1D1D" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="12,354,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="20" FontWeight="Bold" Height="54" Width="92"><Run Text="Gesture"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="5,10,0,0" TextWrapping="Wrap" Text="Debug" VerticalAlignment="Top" FontFamily="Lucida Console" FontSize="22" Height="22" Width="82"/>
+        <CheckBox x:Name="checkOne" Content="" HorizontalAlignment="Left" Margin="82,388,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" IsEnabled="False" Height="15" Width="20">
+            <CheckBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </CheckBox.RenderTransform>
+        </CheckBox>
+        <CheckBox x:Name="checkTwo" Content="" HorizontalAlignment="Left" Margin="82,411,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" IsEnabled="False" Height="15" Width="20">
+            <CheckBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </CheckBox.RenderTransform>
+        </CheckBox>
+        <TextBlock HorizontalAlignment="Left" Margin="9,382,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="Part One" Height="22" Width="62"/>
+        <TextBlock HorizontalAlignment="Left" Margin="11,407,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="Part Two" Height="22" Width="62"/>
+        <TextBlock HorizontalAlignment="Left" Margin="8,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="24" Width="54"><Run Text="Depth"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="txtRatio" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="51" Margin="54,301,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,439,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Width="137" Height="64"><Run Text="Right"/><Run Text="HandElbow Difference"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="txtHandElbow" HorizontalAlignment="Left" Height="45" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" Margin="134,436,0,0" Foreground="#FFEC1D1D" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="12,484,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Width="134" Height="64"><Run Text="Left"/><Run Text="HandElbow Difference"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="txtLeftHandElbow" HorizontalAlignment="Left" Height="45" TextWrapping="Wrap" VerticalAlignment="Top" Width="258" Margin="133,488,0,0" Foreground="#FFEC1D1D" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="13,547,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Width="134" Text="Rotation" Height="21"/>
+        <TextBox x:Name="txtRotation" HorizontalAlignment="Left" Height="45" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Margin="133,537,0,0" Foreground="#FFEC1D1D" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="6,582,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Width="115" Height="64"><Run Text="HeadHand"/><Run Text=" "/><Run Text="Difference"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="txtHeadHandDifferenceY" HorizontalAlignment="Left" Height="45" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Margin="133,586,0,0" Foreground="#FFEC1D1D" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="301,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="20" FontWeight="Bold" Height="32" Width="146"><Run Text="Selection Menu"/><LineBreak/><Run/></TextBlock>
+        <CheckBox x:Name="checkOnHat" Content="" HorizontalAlignment="Left" Margin="368,51,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" IsEnabled="False" Height="15" Width="20">
+            <CheckBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </CheckBox.RenderTransform>
+        </CheckBox>
+        <CheckBox x:Name="checkOnProp" Content="" HorizontalAlignment="Left" Margin="368,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" IsEnabled="False" Height="15" Width="20">
+            <CheckBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </CheckBox.RenderTransform>
+        </CheckBox>
+        <TextBlock HorizontalAlignment="Left" Margin="305,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="21" Width="55"><Run Text="On "/><Run Text="Hat"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="301,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="21" Width="59"><Run Text="On "/><Run Text="Prop"/></TextBlock>
+        <CheckBox x:Name="checkPressHat" Content="" HorizontalAlignment="Left" Margin="368,93,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" IsEnabled="False" Height="15" Width="20">
+            <CheckBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </CheckBox.RenderTransform>
+        </CheckBox>
+        <CheckBox x:Name="checkPressProp" Content="" HorizontalAlignment="Left" Margin="368,114,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" IsEnabled="False" Height="15" Width="20">
+            <CheckBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </CheckBox.RenderTransform>
+        </CheckBox>
+        <TextBlock HorizontalAlignment="Left" Margin="268,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="21" Width="92"><Run Text="Pressed"/><Run Text=" "/><Run Text="Hat"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="268,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="21" Width="96"><Run Text="Pressed"/><Run Text=" "/><Run Text="Prop "/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="268,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="Depth Value" Height="21" Width="111"/>
+        <TextBlock HorizontalAlignment="Left" Margin="238,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Text="DepthDifference" Height="26" Width="127"/>
+        <TextBox x:Name="txtDepthValue" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" Margin="365,133,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBox x:Name="txtDepthDifference" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" Margin="365,165,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="268,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="40" Width="92" Text="Shoulder Differences"/>
+        <TextBox x:Name="txtLeftRightShoulder" HorizontalAlignment="Left" Height="54" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Margin="365,198,0,0" Foreground="#FFEC1D1D" FontSize="20" RenderTransformOrigin="0.234,3.4"/>
+        <TextBlock HorizontalAlignment="Left" Margin="258,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.5,-2" FontSize="16" Height="47" Width="107" Text="Number of tracked players"/>
+        <TextBox x:Name="txtTrackedPlayers" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="33" Margin="381,283,0,0" Foreground="#FFEC1D1D" FontSize="16"/>
+    </Grid>
+</Window>

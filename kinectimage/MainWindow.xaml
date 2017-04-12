@@ -1,0 +1,213 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013" x:Class="KinectImage.MainWindow"
+        Title="Augmented Reality" Height="1019.788" Width="1626.36" Loaded="Window_Loaded" Closing="Window_Closing" HorizontalAlignment="Left" VerticalAlignment="Top" Icon="Items/fedora.gif" ResizeMode="CanMinimize">
+    <Grid x:Name="Content" HorizontalAlignment="Left" VerticalAlignment="Top" Height="1088" Width="1614">
+        <Grid x:Name="Kinect" HorizontalAlignment="Left" VerticalAlignment="Top" Height="960" Width="1280" Margin="10,24,0,0">
+            <Image x:Name="Image" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1280" Height="960"/>
+            <Border BorderThickness="12" Height="973" Width="1300" CornerRadius="2" Canvas.Left="-10" Canvas.Top="-2" BorderBrush="Black" Margin="-11,0,-9,-13"/>
+            <TextBlock x:Name="txtNoKinect" Canvas.Left="434" TextWrapping="Wrap" Canvas.Top="365" FontSize="72" HorizontalAlignment="Center" VerticalAlignment="Center" Height="103" Margin="320,384,293,473" Width="667"><Run Text="Kinect not detected"/><LineBreak/><Run/></TextBlock>
+            <Button x:Name="btnRetry" Content="Retry" Canvas.Left="504" Canvas.Top="603" Width="292" Height="112" FontSize="48" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="496,489,496,363" Click="btnRetry_Click"/>
+            <Canvas x:Name="canvas1">
+                <Image x:Name="headwearP1" Source="Items/fedora.gif" Height="130" Width="168" RenderTransformOrigin="0.51, 0.955" Canvas.Left="532" Canvas.Top="24" Visibility="Hidden" IsEnabled="False">
+                    <Image.Effect>
+                        <BlurEffect/>
+                    </Image.Effect>
+                </Image>
+            </Canvas>
+            <Canvas x:Name="canvas2">
+                <Image x:Name="headwearP2" Width="273" Height="276" HorizontalAlignment="Left" VerticalAlignment="Top" Visibility="Hidden" Source="Items/fedora.gif" Canvas.Left="473" Canvas.Top="174" RenderTransformOrigin="0.5,0.5">
+                    <Image.Effect>
+                        <BlurEffect/>
+                    </Image.Effect>
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleY="1" ScaleX="-1"/>
+                            <SkewTransform AngleY="0" AngleX="0"/>
+                            <RotateTransform Angle="0"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+            </Canvas>
+            <Canvas x:Name="canvasHandProp1">
+                <Image x:Name="handPropP1" Canvas.Left="246" Canvas.Top="327" Height="214" Width="378" RenderTransformOrigin="0.949,0.917" Visibility="Visible" Source="Items/umbrellaClosed.gif">
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.552"/>
+                            <TranslateTransform X="41.813" Y="-126.817"/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+                <Button x:Name="btnHatP1" Canvas.Left="110" Canvas.Top="110" Width="150" FontWeight="Bold" FontSize="48" FontFamily="Segoe WP Black" Height="130" Click="btnHatP1_Click" Visibility="Hidden" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Opacity="0.5">
+                    <StackPanel>
+                        <Image x:Name="btnHatP1Image" Source="Items/nextButton.gif" Height="115" Width="130"  />
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="btnPropP1" Canvas.Left="108" Canvas.Top="241" Width="150" FontWeight="Bold" FontSize="48" FontFamily="Segoe WP Black" Height="130" Click="btnPropP1_Click" Visibility="Hidden" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Opacity="0.5">
+                    <StackPanel>
+                        <Image x:Name="btnPropP1Image" Source="Items/nextButton.gif" Height="115" Width="130" />
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="btnHatP2" Canvas.Left="999" Canvas.Top="109" Width="150" FontWeight="Bold" FontSize="48" FontFamily="Segoe WP Black" Height="130" Click="btnHatP2_Click" Visibility="Hidden" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" RenderTransformOrigin="0.5,0.5" Opacity="0.5">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleY="-1"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                    <StackPanel>
+                        <Image x:Name="btnHatP2Image" Source="Items/nextButton.gif" Height="115" Width="130" RenderTransformOrigin="0.5,0.5" >
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-180"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnPropP2" Canvas.Left="997" Canvas.Top="241" Width="150" FontWeight="Bold" FontSize="48" FontFamily="Segoe WP Black" Height="130" Click="btnPropP2_Click" Visibility="Hidden" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" RenderTransformOrigin="0.5,0.5" Opacity="0.5">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleY="-1"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                    <StackPanel>
+                        <Image x:Name="btnPropP2Image" Source="Items/nextButton.gif" Height="115" Width="130" RenderTransformOrigin="0.5,0.5" >
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-180"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </StackPanel>
+                </Button>
+
+
+
+
+                <Image x:Name="imgAttention" Height="61" Canvas.Left="495" Canvas.Top="69" Width="61" Source="Items/attention-hi.png" Opacity="0.75"/>
+                <TextBlock x:Name="txtNoPlayers" Canvas.Left="561" TextWrapping="Wrap" Text="No Players Detected" Canvas.Top="85" Height="42" Width="241" FontSize="24" FontWeight="Bold" Opacity="0.75"/>
+                <TextBlock x:Name="player1Pointer" Canvas.Left="354" TextWrapping="Wrap" Text="Player 1" Canvas.Top="212" Height="68" Width="202" FontSize="48" FontWeight="Bold" Foreground="#FF062BD1" Visibility="Hidden"/>
+                <TextBlock x:Name="player2Pointer" Canvas.Left="600" TextWrapping="Wrap" Text="Player 2" Canvas.Top="212" Height="68" Width="202" FontSize="48" FontWeight="Bold" Foreground="#FFE81313" Visibility="Hidden"/>
+
+
+
+            </Canvas>
+
+            <Canvas x:Name="canvasHandProp2" HorizontalAlignment="Left">
+                <Image x:Name="handPropP2" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="650" Canvas.Top="103" Source="Items/umbrellaClosedFlipped.gif" Height="310" Width="490" >
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="31.943"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+            </Canvas>
+            <Image x:Name="headwearPreviewP1" HorizontalAlignment="Left" Height="107" Margin="20,108,0,0" VerticalAlignment="Top" Width="100" Opacity="0.75" Visibility="Hidden"/>
+            <Image x:Name="propPreviewP1" HorizontalAlignment="Left" Height="107" Margin="20,244,0,0" VerticalAlignment="Top" Width="100" Opacity="0.75" Visibility="Hidden"/>
+            <Image x:Name="headwearPreviewP2" HorizontalAlignment="Left" Height="107" Margin="1168,108,0,0" VerticalAlignment="Top" Width="100" Opacity="0.75" Visibility="Hidden"/>
+            <Image x:Name="propPreviewP2" HorizontalAlignment="Left" Height="107" Margin="1166,244,0,0" VerticalAlignment="Top" Width="100" Opacity="0.75" Visibility="Hidden" RenderTransformOrigin="1.16,0.047"/>
+
+        </Grid>
+        <DockPanel HorizontalAlignment="Left" Height="19" LastChildFill="False" VerticalAlignment="Top" Width="1610" Background="{DynamicResource {x:Static SystemColors.MenuBarBrushKey}}">
+            <Menu Height="25" VerticalAlignment="Top" Width="643" Margin="0,1,0,-3">
+                <MenuItem Header="_File">
+                    <MenuItem Header="Close" Margin="0,0,-20,0" Click="MenuItem_Click"/>
+                </MenuItem>
+                <MenuItem Header="_Edit" >
+                    <MenuItem x:Name="_1Player" Header="1 Player" IsCheckable="True" Checked="player1_Checked" Click="_1Player_Unchecked"/>
+                    <MenuItem x:Name="_2Player" Header="2 Player" IsCheckable="True" Checked="player2_Checked" Click="_2Player_Unchecked"/>
+                </MenuItem>
+
+                <MenuItem Header="_View">
+                    <MenuItem Header="Show Debug" Margin="0,0,-20,0" Click="showDebug_Click"/>
+                    <MenuItem x:Name="showPlayers" Header="Show Players" Margin="0,0,-20,0" IsCheckable="True" Unchecked="showPlayers_Unchecked"/>
+
+                </MenuItem>
+                <MenuItem Header="_Help" />
+            </Menu>
+        </DockPanel>
+        <Grid x:Name="gridTools" Margin="1296,30,0,104" >
+            <Button x:Name="btnCamera" Margin="73,625,65,0" Click="btnCamera_Click" Background="{x:Null}" Foreground="{x:Null}" BorderBrush="{x:Null}" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" VerticalAlignment="Top" Width="180" >
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <StackPanel>
+                    <Image Source="Items/camera.png" Height="142" Width="152" RenderTransformOrigin="0.5,0.5" >
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="360"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                </StackPanel>
+            </Button>
+            <TextBox x:Name="txtBoxEmail" HorizontalAlignment="Center" Height="32" Margin="0,564,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="244" FontSize="18" AllowDrop="False" MaxLines="100" MinLines="1" FontFamily="Arial" BorderThickness="2"/>
+            <TextBlock HorizontalAlignment="Center" Margin="0,513,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" FontFamily="Arial Black" Width="296" TextAlignment="Center"><Run Text="Enter "/><Run Text="up to two email addresses"/></TextBlock>
+            <TextBox x:Name="txtBoxEmail2" HorizontalAlignment="Center" Height="32" Margin="0,600,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="244" FontSize="18" AllowDrop="False" MaxLines="100" MinLines="1" FontFamily="Arial" BorderThickness="2"/>
+            <TextBlock HorizontalAlignment="Center" Margin="0,782,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="34" Width="130" FontSize="22" TextAlignment="Center" FontFamily="Arial" FontWeight="Bold" RenderTransformOrigin="0.473,0.735"><Run Text="Players"/><LineBreak/><Run/></TextBlock>
+            <RadioButton x:Name="radioOne" Content="One" HorizontalAlignment="Left" Margin="89,822,0,0" VerticalAlignment="Top" FlowDirection="RightToLeft" RenderTransformOrigin="0.5,0.5" IsChecked="True" GroupName="players" Checked="radioOne_Checked" FontFamily="Arial">
+                <RadioButton.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="2" ScaleY="2"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </RadioButton.RenderTransform>
+            </RadioButton>
+            <RadioButton x:Name="radioTwo" Content="Two" HorizontalAlignment="Left" Margin="185,822,0,0" VerticalAlignment="Top" FlowDirection="RightToLeft" RenderTransformOrigin="0.5,0.5" GroupName="players" Checked="radioTwo_Checked" FontFamily="Arial">
+                <RadioButton.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="2" ScaleY="2"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform X="1" Y="1"/>
+                    </TransformGroup>
+                </RadioButton.RenderTransform>
+            </RadioButton>
+            <TextBlock HorizontalAlignment="Center" Margin="0,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" FontFamily="Arial" Width="282" TextAlignment="Center" Height="80" FontStyle="Italic"><Run Text="Enter your email address below and press the camera button. "/><LineBreak/><Run Text="A capture of the screen will be saved and sent "/><Run Text="to you in "/><Run Text="a message!"/></TextBlock>
+            <TextBlock HorizontalAlignment="Center" Margin="132,434,130,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" Text="Hints" FontSize="22" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Center" Margin="103,461,101,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="114" FontStyle="Italic" >
+               <Run Text="Tip the fed"/><Run Text="ora!"/></TextBlock>
+            <TextBlock HorizontalAlignment="Center" Margin="85,483,83,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="150" FontStyle="Italic" Text="Take off the top hat!"/>
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" Text="Instructions" FontSize="22" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Center" Margin="0,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="244" FontStyle="Italic" TextAlignment="Center"><Run Text="Choose a hat b"/><Run Text="y pressing the top button with your hand"/></TextBlock>
+            <TextBlock HorizontalAlignment="Center" Margin="0,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="244" FontStyle="Italic" TextAlignment="Center"><Run Text="Choose a "/><Run Text="prop"/><Run Text=" b"/><Run Text="y pressing the "/><Run Text="button"/><Run Text=" button with your hand"/></TextBlock>
+            <TextBlock HorizontalAlignment="Center" Margin="0,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="244" FontStyle="Italic" TextAlignment="Center" Text="The hats and props should respond to your movements!"/>
+            <TextBlock HorizontalAlignment="Center" Margin="0,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" FontFamily="Arial" Width="282" TextAlignment="Center" Height="80" FontStyle="Italic"><Run Text="Player one stands on the "/><Run Text="left"/><Run Text=". They will use their left hand to hold props and press buttons. Their right hand is used to perform gestures. "/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run Text="Player two stands on the right"/></TextBlock>
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" FontFamily="Arial" Width="282" TextAlignment="Center" Height="80" FontStyle="Italic" Margin="18,269,18,0"><Run Text="Player "/><Run Text="two"/><Run Text=" stands on the"/><Run Text=" right. They will use their "/><Run Text="right"/><Run Text=" hand to hold props and press buttons. Their "/><Run Text="left"/><Run Text=" hand is used to perform gestures. "/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run Text="Player two stands on the right"/></TextBlock>
+        </Grid>
+
+
+    </Grid>
+
+</Window>

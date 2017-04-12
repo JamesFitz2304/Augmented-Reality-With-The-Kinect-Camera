@@ -1,0 +1,407 @@
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\bin\Debug\KinectImage.exe.config
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\bin\Debug\KinectImage.exe
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\bin\Debug\KinectImage.pdb
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\MainWindow.baml
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\MainWindow.g.cs
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\App.g.cs
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\KinectImage.g.resources
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\KinectImage.exe
+c:\users\computing\documents\visual studio 2013\Projects\KinectImage\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectInteraction180_32.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectInteraction180_64.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectInteraction180_32.dll
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectInteraction180_64.dll
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\Debug.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\KinectInteraction180_32.dll
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\KinectInteraction180_64.dll
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\Project\KinectImage\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+F:\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe.config
+F:\Project\KinectImage\KinectImage\obj\Debug\KinectImage.exe
+F:\Project\KinectImage\KinectImage\obj\Debug\KinectImage.pdb
+F:\Project\KinectImage\KinectImage\bin\Debug\KinectInteraction180_32.dll
+F:\Project\KinectImage\KinectImage\bin\Debug\KinectInteraction180_64.dll
+F:\Project\KinectImage\KinectImage\bin\Debug\KinectImage.exe
+F:\Project\KinectImage\KinectImage\bin\Debug\KinectImage.pdb
+F:\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.dll
+F:\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+F:\Project\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+F:\Project\KinectImage\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+F:\Project\KinectImage\KinectImage\obj\Debug\Debug.baml
+F:\Project\KinectImage\KinectImage\obj\Debug\MainWindow.baml
+F:\Project\KinectImage\KinectImage\obj\Debug\Debug.g.cs
+F:\Project\KinectImage\KinectImage\obj\Debug\MainWindow.g.cs
+F:\Project\KinectImage\KinectImage\obj\Debug\App.g.cs
+F:\Project\KinectImage\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+F:\Project\KinectImage\KinectImage\obj\Debug\KinectImage.g.resources
+F:\Project\KinectImage\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+F:\Project\KinectImage\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\KinectInteraction180_32.dll
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\KinectInteraction180_64.dll
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\computing\Desktop\KinectImage\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\viewImage.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage\KinectImage\obj\Debug\viewImage.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\Debug.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage2.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage\KinectImage2.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage\KinectImage3.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage3.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage4.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\Debug.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\bin\Debug\KinectInteraction180_32.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\bin\Debug\KinectInteraction180_64.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage4.0\KinectImage\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\James\Desktop\KinectImage5.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\Debug.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage6.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Dropbox\University of Lincoln\Level 3\Project\KinectImage7.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\James\Desktop\KinectImage8.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\Debug.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\KinectImage_Content.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage8.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\KinectImage_Content.g.cs
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage9.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage9.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage9.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage9.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\Debug.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\KinectImage_Content.g.cs
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Dropbox\Dropbox\University of Lincoln\Level 3\Project\KinectImage10.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\KinectImage_Content.g.cs
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage10.0\KinectImage\bin\Debug\KinectImage.pdb
+D:\Users\KinectImage10.0\KinectImage\bin\Debug\KinectImage.exe.config
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\KinectImage.exe
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\KinectImage.pdb
+D:\Users\KinectImage10.0\KinectImage\bin\Debug\KinectImage.exe
+D:\Users\KinectImage10.0\KinectImage\bin\Debug\KinectImage.pdb
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\Debug.baml
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\MainWindow.baml
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\Debug.g.cs
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\MainWindow.g.cs
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\App.g.cs
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\KinectImage_Content.g.cs
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\KinectImage.g.resources
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+D:\Users\KinectImage10.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\bin\Debug\KinectImage.exe.config
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\bin\Debug\KinectImage.exe
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\bin\Debug\KinectImage.pdb
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\Debug.baml
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\MainWindow.baml
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\Debug.g.cs
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\MainWindow.g.cs
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\App.g.cs
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage_Content.g.cs
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage_MarkupCompile.cache
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.g.resources
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.Properties.Resources.resources
+C:\Users\computing\Desktop\KinectImage11.0\KinectImage\obj\Debug\KinectImage.csproj.GenerateResource.Cache
